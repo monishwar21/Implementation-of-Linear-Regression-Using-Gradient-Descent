@@ -14,11 +14,7 @@ To write a program to predict the profit of a city using the linear regression m
 4. Extract dependent variable (Profit) into y
 5. Calculate mean of X
 6. Calculate standard deviation of X
-7. Normalize X using formula:
-
-X=
-std
-X−mean
+7. Calculate predicted values
 	​
 
 
